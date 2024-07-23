@@ -1,4 +1,4 @@
-class Stage1:
+class Stage2:
     def __init__(self, data):
         self.data = data
 
